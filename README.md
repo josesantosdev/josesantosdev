@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm José Santos
 
 <!--
 **josesantosdev/josesantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on personal project user api
+- 🌱 I’m currently learning python flask restfull mysql
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about programming logic and algorithms
+- 📫 How to reach me: thecaasantos@gmail.com
+<div align="center">
+  <a href="https://github.com/josesantosdev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
