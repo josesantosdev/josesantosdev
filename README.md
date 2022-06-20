@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on personal project user api
+- 🔭 I’m currently working on a personal project, user api. You can view my progress in this repo: users[https://github.com/josesantosdev/users](https://github.com/josesantosdev/users)
 - 🌱 I’m currently learning python flask restfull mysql
 - 💬 Ask me about programming logic and algorithms
 - 📫 How to reach me: thecaasantos@gmail.com
