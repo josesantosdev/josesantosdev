@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on a personal project, user api. repo link: users [https://github.com/josesantosdev/users](https://github.com/josesantosdev/users)
-- 🌱 I’m currently learning python flask restfull mysql
+- 🌱 I’m currently learning python, flask restfull, mysql, mvc, microservices, aws.
 - 💬 Ask me about programming logic and algorithms
 - 📫 How to reach me: thecaasantos@gmail.com
 
