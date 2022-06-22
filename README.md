@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a personal project, user api. repo link: users [https://github.com/josesantosdev/users](https://github.com/josesantosdev/users)
 - 🌱 I’m currently learning python, flask, django, restfull, mysql, mvc, microservices, aws.
 - 📫 How to reach me: thecaasantos@gmail.com
-- Tanks!
+- Thanks!
 
 <div align="center">
   <a href="https://github.com/josesantosdev">
