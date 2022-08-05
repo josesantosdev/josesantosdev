@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on a personal project, user api. repo link: users [https://github.com/josesantosdev/users](https://github.com/josesantosdev/users)
-- 🌱 I’m currently learning python, flask, django, restfull, mysql, mvc, microservices, aws.
+- 🔭 I’m currently working on Compass.UOL in data & analytics team as Data engineer.
+- 🌱 I’m currently learning python, sql, hadoop, mysql, big data.
 - 📫 How to reach me: thecaasantos@gmail.com
 - Thanks!
+
 
 <div align="center">
   <a href="https://github.com/josesantosdev">
