@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Compass.UOL in data & analytics team as data engineer.
-- 🌱 I’m currently learning python, sql, hadoop, mysql, big data.
+- 🌱 I’m currently learning python, pandas, numpy, seaborn, sql, hadoop, mysql, big data.
 - 📫 How to reach me: thecaasantos@gmail.com
 - Thanks!
 
