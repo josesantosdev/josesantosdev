@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working on Compass.UOL in data & analytics team as Data engineer.
+- 🔭 I’m currently working on Compass.UOL in data & analytics team as data engineer.
 - 🌱 I’m currently learning python, sql, hadoop, mysql, big data.
 - 📫 How to reach me: thecaasantos@gmail.com
 - Thanks!
