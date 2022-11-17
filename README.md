@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 - 
-- 🌱 I’m currently learning python, microservices, django rest framework, PEP8.
+- 🌱 I’m currently learning python, microservices, django rest framework, PEP8, ReactJS.
 - 📫 How to reach me: thecaasantos@gmail.com
 - Thanks!
 
