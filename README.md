@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/josesantosdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josesantosdev&theme=onedark)](https://git.io/streak-stats)
+    
 </div>
 
 <div align="center">
