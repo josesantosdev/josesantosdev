@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-- 
+- My name is José, I'm graduating in Technologist Degree in Systems Analysis and Development, looking for a first formal job in a development team, learning every day, coding every day just because a really like it.
 - 🌱 I’m currently learning python, microservices, django rest framework, PEP8, ReactJS.
-- 📫 How to reach me: thecaasantos@gmail.com
+- 📫 Please contat me: thecaasantos@gmail.com
 - Thanks!
 
 
