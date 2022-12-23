@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-<div align="center" style="flex-direction:row;">
+<div align="center">
   <a href="https://github.com/josesantosdev">
    
   <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
