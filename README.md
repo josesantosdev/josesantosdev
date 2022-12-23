@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true" />
+
 <source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
