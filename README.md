@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark$layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark&layout=compact">
 </picture>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
