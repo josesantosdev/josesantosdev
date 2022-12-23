@@ -27,8 +27,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/josesantosdev">
    <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
+  srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=merko"
+  media="(prefers-color-scheme: merko)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true"
