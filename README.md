@@ -22,9 +22,10 @@ Here are some ideas to get you started:
 - Thanks!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
   <a href="https://github.com/josesantosdev">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br/>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
