@@ -25,22 +25,12 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/josesantosdev">
-   <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
+   
+  <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true" />
 
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark"
-  media="(prefers-color-scheme: dark)"
- />
-</picture>
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark"
+
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
 </div>
   
