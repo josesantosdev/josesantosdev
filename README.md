@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   srcset="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
