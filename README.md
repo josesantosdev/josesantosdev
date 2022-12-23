@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true" />
 </picture>
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=josesantosdev&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark$layout=compac">
 </div>
   
 <div align="center">
