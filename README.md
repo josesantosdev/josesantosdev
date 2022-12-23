@@ -28,11 +28,9 @@ Here are some ideas to get you started:
    
   <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
     
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark">
-
-  
 
 </div>
   
