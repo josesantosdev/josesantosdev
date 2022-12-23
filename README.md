@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark&hide=HTML,CSS,Mako">
 
 </div>
   
