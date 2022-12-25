@@ -19,8 +19,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
----
-
 ### :man_technologist: About Me :
 
 - My name is José, I'm graduating in Technologist Degree in Systems Analysis and Development, looking for a first formal job in a development team, learning every day, coding every day just because a really like it.
