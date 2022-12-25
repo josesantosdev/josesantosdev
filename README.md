@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/nUg011pWqiUReijzrH/giphy.gif?cid=ecf05e47koikii45a9ijf24hdoxf38iznqx6sgaxdm4xxyab&rid=giphy.gif&ct=g" width="100"/>
+</div>
+
+
 ## Hi! I'm José Santos
 Backend Developer
 
