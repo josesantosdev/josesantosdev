@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/josesantosdev">
    
-  <img src="https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-    
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark&hide=HTML,CSS,Mako">
