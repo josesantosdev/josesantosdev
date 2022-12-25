@@ -14,24 +14,10 @@
   <img src="https://komarev.com/ghpvc/?username=josesantosdev&style=flat-square&color=blue" alt=""/>
 <div>
 
-
-## Hi! I'm José Santos
-Backend Developer
-
-<!--
-**josesantosdev/josesantosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 - My name is José, I'm graduating in Technologist Degree in Systems Analysis and Development, looking for a first formal job in a development team, learning every day, coding every day just because a really like it.
 - 🌱 I’m currently learning python, microservices, django rest framework, PEP8, ReactJS and React Native.
