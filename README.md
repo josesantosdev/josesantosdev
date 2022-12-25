@@ -23,10 +23,13 @@
 - 🌱 I’m currently learning python, microservices, django rest framework, PEP8, ReactJS and React Native.
 - 📫 Please contat me: thecaasantos@gmail.com
 - Thanks!
+---
+
+### :hammer_and_wrench: Languages and Tools :
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/josesantosdev">
    
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=josesantosdev&theme=onedark"/></a>
