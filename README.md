@@ -2,11 +2,8 @@
   <img src="https://media0.giphy.com/media/l3q2BAs9N0IItUKA0/giphy.gif?cid=ecf05e47v623xa3v0lvotsjvavgavr70u1v9wtqme8tdm5pg&rid=giphy.gif&ct=g" width="150"/>
 </div>
 <div id="badges" align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/josesantosdev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
 </div>
