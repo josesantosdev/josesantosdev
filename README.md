@@ -65,6 +65,4 @@ Meus interesses na área de tecnologias são, inteligencia artificial, hacking, 
     
 ---
 
-<script src="https://embed.github.com/view/3d/josesantosdev"></script>
-
 
