@@ -21,10 +21,23 @@
 
 ### :man_technologist: About Me :
 
-- My name is José, I'm graduating in Technologist Degree in Systems Analysis and Development, looking for a first formal job in a development team, learning every day, coding every day just because a really like it.
-- 🌱 I’m currently learning python, microservices, django rest framework, PEP8, ReactJS and React Native.
-- 📫 Please contat me: thecaasantos@gmail.com
-- Thanks!
+- Olá! Bem-vindo.
+
+- Desenvolvedor de Software Júnior!!
+
+#### Hard Skills! 
+- Python( Django/Flask ) Javascript( React Native ).
+- Docker, Aws, Mysql .
+- Desenvolvimento backend, Desenvolvimento frontend mobile.
+
+- O que estou estudando: React Native, NestJs, NextJS, Django-Rest-Framework, Harvard CS50M.
+
+#### Sobre mim:
+Meu nome é José, tenho 28 anos, estou me graduando em análise e desenvolvimento de sistemas. Meu foco e objetivo de carreia de desenvolvedor de software/ Engenheiro de Software, onde busco usufruir da minha facilidade para aprender sozinho, e curiosidade para aprender novas tecnologias, arquiteturas.
+
+Minhas principais habilidades comportamentais são, a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes como suporte, ou na execução vendas ao cliente final.
+
+Meus interesses na área de tecnologias são, inteligencia artificial, hacking, desenvolvimento de software e empreendedorismo digital.
 
 ---
 
