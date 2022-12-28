@@ -32,7 +32,7 @@
 #### Sobre mim:
 Meu nome é José, tenho 28 anos, estou me graduando em análise e desenvolvimento de sistemas. Meu foco e objetivo de carreia de desenvolvedor de software/ Engenheiro de Software, onde busco usufruir da minha facilidade para aprender sozinho, e curiosidade para aprender novas tecnologias, arquiteturas.
 
-Minhas principais habilidades comportamentais são, a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes como suporte, ou na execução vendas ao cliente final.
+Minhas principais habilidades comportamentais são, a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes internos, ou na execução vendas ao cliente final.
 
 Meus interesses na área de tecnologias são, inteligencia artificial, hacking, desenvolvimento de software e empreendedorismo digital.
 
