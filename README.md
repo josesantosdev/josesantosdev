@@ -27,10 +27,9 @@
 - Docker, Aws, Mysql .
 - Desenvolvimento backend, Desenvolvimento frontend mobile.
 
-- O que estou estudando: React Native, NestJs, NextJs, Django-Rest-Framework, Harvard CS50M.
+- O que estou estudando: TypeScript, Node.js, React Native,  Harvard CS50M.
 
-#### Sobre mim:
-Meu nome é José, tenho 28 anos e estou me graduando em análise e desenvolvimento de sistemas. Meu foco e objetivo de carreia é como desenvolvedor de software/ Engenheiro de Software, onde busco usufruir da minha facilidade para aprender sozinho, e curiosidade para aprender novas tecnologias, arquiteturas e ferramentas. Minhas principais habilidades comportamentais são a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes internos ou na execução da venda e experiência ao cliente final. Meus interesses na área de tecnologias são a inteligência artificial, hacking, desenvolvimento de software e empreendedorismo digital.
+
 
 ---
 
