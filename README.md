@@ -21,7 +21,7 @@
 - Desenvolvedor de Software Júnior!!
 
 #### Hard Skills! 
-- Python( Django/Flask ) Javascript( React Native ).
+- Python, Javascript.
 - Docker, Aws, Mysql .
 - Desenvolvimento backend, Desenvolvimento frontend mobile.
 
