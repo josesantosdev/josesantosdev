@@ -1,12 +1,14 @@
 # Olá meu nome é José, desenvolvedor de software.
 
-Atualmente estou desenvolvendo um aplicativo de gestão de hábitos utilizando **React** e **React Native** com **Python**. Possuo 1 ano de experiência como desenvolvedor de software e venho me especializando no desenvolvimento **fullstack**.
+Atualmente estou desenvolvendo um aplicativo de gestão de hábitos utilizando **React** no front-end e **React Native** no mobile com **Python** e python no back-end. Possuo 2 ano de experiência como desenvolvedor de software, Tenho me dedicado cada vez mais a me especializar no desenvolvimento **fullstack** e engenharia de software.
 
 ## Habilidades Comportamentais
 - Comunicação
 - Inteligência emocional
 - Trabalho em equipe
 - Colaboração
+- Empatia
+- Senso crítico
 
 ## Interesses em Tecnologia
 - Inteligência artificial
