@@ -15,9 +15,9 @@ Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e
 - Empreendedorismo digital
 
 ### Linguagens
-- JavaScript
-- Python
-- SQL
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Python](https://img.shields.io/badge/Python-3.7-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)
 
 ### Front-end
 - React
