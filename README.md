@@ -1,4 +1,4 @@
-# Olá meu nome é José, desenvolvedor de software júnior.
+# Olá meu nome é José, desenvolvedor de software.
 
 Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e **React Native** com **Python**. Possuo 1 ano de experiência como desenvolvedor de software e venho me especializando no desenvolvimento **fullstack**.
 
