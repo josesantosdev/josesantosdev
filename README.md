@@ -24,6 +24,7 @@ Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e
 | Tools and Technologies | ![Git](https://img.shields.io/badge/Git-Expert-orange) ![GitHub](https://img.shields.io/badge/GitHub-Expert-green) ![SCRUM](https://img.shields.io/badge/SCRUM-Intermediate-yellowgreen) |
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange) |
 
-##Contatos
+## Contatos
 ---------
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
+- Linkedin: [Link](https://www.linkedin.com/in/josesantosdev/) 
