@@ -25,6 +25,5 @@ Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange) |
 
 ## Contatos
----------
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
 - Linkedin: [Link](https://www.linkedin.com/in/josesantosdev/) 
