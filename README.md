@@ -14,22 +14,12 @@ Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e
 - Desenvolvimento de software
 - Empreendedorismo digital
 
-### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-lightgrey)
-
-![Front-end](https://img.shields.io/badge/Front--end-React-61DBFB) ![Mobile](https://img.shields.io/badge/Mobile-React%20Native-61DBFB)
-![Back-end](https://img.shields.io/badge/Back--end-Django-0C4B33) ![Back-end](https://img.shields.io/badge/Back--end-Flask-000000)
-
-### Banco de dados
-![Banco de dados](https://img.shields.io/badge/Banco%20de%20dados-MySQL-orange)
-![Banco de dados](https://img.shields.io/badge/Banco%20de%20dados-PostgreSQL-blue)
-
-### Ferramentas e Tecnologias
-![Git](https://img.shields.io/badge/Git-2C3E50)
-![Github](https://img.shields.io/badge/Github-black)
-![SCRUM](https://img.shields.io/badge/SCRUM-6AB04A)
-
-### Nuvem
-![AWS](https://img.shields.io/badge/AWS-232F3E)
+| Technologies | Shields |
+| --- | --- |
+| Languages | ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow) ![Python](https://img.shields.io/badge/Python-Expert-blue) ![SQL Language](https://img.shields.io/badge/SQL%20Language-Intermediate-lightgrey) |
+| Front-end | ![React](https://img.shields.io/badge/React-Expert-blue) |
+| Mobile | ![React Native](https://img.shields.io/badge/React%20Native-Expert-blue) |
+| Back-end | ![Django](https://img.shields.io/badge/Django-Expert-green) ![Flask](https://img.shields.io/badge/Flask-Intermediate-yellowgreen) |
+| Database | ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue) ![Postgres](https://img.shields.io/badge/Postgres-Intermediate-blueviolet) |
+| Tools and Technologies | ![Git](https://img.shields.io/badge/Git-Expert-orange) ![GitHub](https://img.shields.io/badge/GitHub-Expert-green) ![SCRUM](https://img.shields.io/badge/SCRUM-Intermediate-yellowgreen) |
+| Cloud | ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange) |
