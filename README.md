@@ -1,13 +1,42 @@
-Desenvolvedor Fullstack
-Olá, meu nome é José e sou um desenvolvedor fullstack. Eu trabalho com várias tecnologias, incluindo:
+# Olá meu nome é José, desenvolvedor de software júnior.
 
-💻 Linguagens de programação: JavaScript, Python, SQL
-🖥️ Front-end: React
-📱 Mobile: React Native
-🗃️ Back-end: Django, Flask
-🗄️ Banco de dados: MySQL, PostgreSQL
-🛠️ Ferramentas e tecnologias: Git, Github, Scrum
-☁️ Nuvem: AWS
-Atualmente estou desenvolvendo um aplicativo de gestão de hábitos usando React, React Native e Python. Eu tenho 1 ano de experiência como desenvolvedor de software e estou sempre me aprimorando. Além das habilidades técnicas, eu também possuo habilidades comportamentais como comunicação, inteligência emocional, trabalho em equipe e colaboração.
+Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e **React Native** com **Python**. Possuo 1 ano de experiência como desenvolvedor de software e venho me especializando no desenvolvimento **fullstack**.
 
-Meus principais interesses na área de tecnologia são inteligência artificial, hacking, desenvolvimento de software e empreendedorismo digital.
+## Habilidades Comportamentais
+- Comunicação
+- Inteligência emocional
+- Trabalho em equipe
+- Colaboração
+
+## Interesses em Tecnologia
+- Inteligência artificial
+- Hacking
+- Desenvolvimento de software
+- Empreendedorismo digital
+
+### Linguagens
+- JavaScript
+- Python
+- SQL
+
+### Front-end
+- React
+
+### Mobile
+- React Native
+
+### Back-end
+- Django
+- Flask
+
+### Banco de dados
+- MySQL
+- Postgres
+
+### Ferramentas e Tecnologias
+- Git
+- Github
+- SCRUM
+
+### Nuvem
+- AWS
