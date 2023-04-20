@@ -23,3 +23,7 @@ Atualmente desenvolvendo um aplicativo de gestão de hábitos usando **React** e
 | Database | ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue) ![Postgres](https://img.shields.io/badge/Postgres-Intermediate-blueviolet) |
 | Tools and Technologies | ![Git](https://img.shields.io/badge/Git-Expert-orange) ![GitHub](https://img.shields.io/badge/GitHub-Expert-green) ![SCRUM](https://img.shields.io/badge/SCRUM-Intermediate-yellowgreen) |
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange) |
+
+##Contatos
+---------
+- Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
