@@ -1,20 +1,15 @@
-# Olá meu nome é José, desenvolvedor de software.
+# José Santos.
 
-Atualmente estou desenvolvendo um aplicativo de gestão de hábitos utilizando **React** no front-end e **React Native** no mobile com **Python** e python no back-end. Possuo 2 ano de experiência como desenvolvedor de software, Tenho me dedicado cada vez mais a me especializar no desenvolvimento **fullstack** e **engenharia de software**.
+Desenvolvedor fullstack.
 
-## Habilidades Comportamentais
-- Comunicação
-- Inteligência emocional
-- Trabalho em equipe
-- Colaboração
-- Empatia
-- Senso crítico
+## Sobre Mim
+Meu nome é José, sou uma pessoa generalista e curioso por conhecer coisas novas, de certo que de tempos em tempos estou sempre falando e me interando sobre novas tecnolgias e formas diferntes e inovadoras de resolver os b.o do contidiano. Ajudo as pessoas que querem começar a pogramar.
 
-## Interesses em Tecnologia
-- Inteligência artificial
-- Hacking
-- Desenvolvimento de software
-- Empreendedorismo digital
+
+## Projetos Destacados
+- [EguaChat](link-para-o-repositorio): Projeto open-source com objetivo de ensinar pessoas falantes de lingua portuguesa a programar uitlizando a linguagem de programaçãi Egua (Em desenvolvimento)
+
+## Habilidades
 
 | Technologies | Shields |
 | --- | --- |
@@ -26,6 +21,15 @@ Atualmente estou desenvolvendo um aplicativo de gestão de hábitos utilizando *
 | Tools and Technologies | ![Git](https://img.shields.io/badge/Git-Expert-orange) ![GitHub](https://img.shields.io/badge/GitHub-Expert-green) ![SCRUM](https://img.shields.io/badge/SCRUM-Intermediate-yellowgreen) |
 | Cloud | ![AWS](https://img.shields.io/badge/AWS-Intermediate-orange) |
 
-## Contatos
+
+## Contato
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
 - Linkedin: [Link](https://www.linkedin.com/in/josesantosdev/) 
+> Twitter: link para o seu perfil do Twitter.
+> Website: link para o seu site ou perfil profissional.
+> Contrate-me: botão para redirecionar os visitantes para o seu site ou perfil profissional.
+
+## Licença
+Adicione uma seção de licença, se desejar compartilhar seus projetos com outras pessoas. Você pode usar a licença padrão do MIT se não tiver certeza sobre qual usar.
+
+## Contatos
