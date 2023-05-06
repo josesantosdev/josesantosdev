@@ -3,7 +3,7 @@
 Desenvolvedor fullstack.
 
 ## Sobre Mim
-Meu nome é José, sou uma pessoa generalista e curioso por conhecer coisas novas, de certo que de tempos em tempos estou sempre falando e me interando sobre novas tecnolgias e formas diferntes e inovadoras de resolver os b.o do contidiano. Ajudo as pessoas que querem começar a pogramar.
+Meu nome é José, sou uma pessoa generalista e curioso por conhecer coisas novas, de certo que de tempos em tempos estou sempre falando e me interando sobre novas tecnolgias e formas diferentes e inovadoras de resolver os b.o do contidiano. Também ajudo as pessoas que querem começar a pogramar.
 
 
 ## Projetos Destacados
