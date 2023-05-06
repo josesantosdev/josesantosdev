@@ -25,11 +25,6 @@ Meu nome é José, sou uma pessoa generalista e curioso por conhecer coisas nova
 ## Contato
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
 - Linkedin: [Link](https://www.linkedin.com/in/josesantosdev/) 
-> Twitter: link para o seu perfil do Twitter.
-> Website: link para o seu site ou perfil profissional.
-> Contrate-me: botão para redirecionar os visitantes para o seu site ou perfil profissional.
 
 ## Licença
-Adicione uma seção de licença, se desejar compartilhar seus projetos com outras pessoas. Você pode usar a licença padrão do MIT se não tiver certeza sobre qual usar.
-
-## Contatos
+licença padrão do MIT.
