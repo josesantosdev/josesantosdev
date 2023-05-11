@@ -1,7 +1,7 @@
 # José Santos.
 
 ## Sobre Mim
-Meu nome é José, sou uma pessoa generalista e curioso por conhecer coisas novas, de certo que de tempos em tempos estou sempre falando e me interando sobre novas tecnolgias e formas diferentes e inovadoras de resolver os b.o do contidiano. Também ajudo as pessoas que querem começar a pogramar.
+Meu nome é José e sou uma pessoa curiosa e generalista, sempre interessado em conhecer coisas novas. De tempos em tempos, busco informações sobre novas tecnologias e maneiras inovadoras de solucionar problemas do cotidiano. Além disso, também gosto de ajudar pessoas que querem começar a programar.
 
 
 ## Projetos Destacados
