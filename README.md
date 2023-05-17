@@ -5,7 +5,7 @@ Meu nome é José e sou uma pessoa curiosa e generalista, sempre interessado em 
 
 
 ## Projetos Destacados
-- [EguaChat](link-para-o-repositorio): Projeto open-source com objetivo de ensinar pessoas falantes de lingua portuguesa a programar uitlizando a linguagem de programaçãi Egua (Em desenvolvimento)
+- [EguaChat](https://github.com/josesantosdev/egua-chat): Projeto open-source com o objetivo de ensinar lógica de programação para pessoas que falam a língua portuguesa, utilizando a linguagem de programação Egua. (Em desenvolvimento)
 
 ## Habilidades
 
