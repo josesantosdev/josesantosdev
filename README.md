@@ -22,8 +22,8 @@ Meu nome é José e sou uma pessoa curiosa e generalista, sempre interessado em 
 
 ## Contato
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
-- Linkedin: [Link](https://www.linkedin.com/in/josesantosdev/)
-- Site [Link](https://www.josesantos.dev/)
+- Linkedin: [Vite o Perfil!](https://www.linkedin.com/in/josesantosdev/)
+- Site [josesantos.dev](https://www.josesantos.dev/)
 
 ## Licença
 licença padrão do MIT.
