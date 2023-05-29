@@ -3,11 +3,7 @@
 ## Sobre Mim
 Meu nome é José e sou uma pessoa curiosa e generalista, sempre interessado em conhecer coisas novas. De tempos em tempos, busco informações sobre novas tecnologias e maneiras inovadoras de solucionar problemas do cotidiano. Além disso, também gosto de ajudar pessoas que querem começar a programar.
 
-
-## Projetos Destacados
-- [EguaChat](https://github.com/josesantosdev/egua-chat): Projeto open-source com o objetivo de ensinar lógica de programação para pessoas que falam a língua portuguesa, utilizando a linguagem de programação Egua. (Em desenvolvimento)
-
-## Habilidades
+## Skills
 
 | Technologies | Shields |
 | --- | --- |
