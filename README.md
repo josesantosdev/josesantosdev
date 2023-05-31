@@ -21,4 +21,4 @@ Olá! Sou José Santos, um desenvolvedor curioso e generalista, sempre buscando 
 - Website: [josesantos.dev](https://www.josesantos.dev/)
 
 ## Licença
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a licença MIT.
