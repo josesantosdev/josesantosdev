@@ -1,7 +1,7 @@
 # 👨‍💻 José Santos
 
 ## Sobre Mim
-Olá! Eu sou José Santos, um desenvolvedor com uma abordagem curiosa e generalista, sempre em busca de novos conhecimentos. Minha jornada envolve explorar continuamente tecnologias inovadoras para enfrentar os desafios do cotidiano. Além disso, tenho uma paixão por auxiliar aqueles que estão dando os primeiros passos na programação.
+Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
 
 ## Habilidades
 
