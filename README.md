@@ -5,7 +5,7 @@ Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abo
 
 ## Habilidades
 <a href="https://github.com/josesantosdev">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josesantosdev&heme=dracula&layout=compact&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josesantosdev&theme=dracula&layout=compact&card_width=320" />
 </a>
 
 ## Contato
