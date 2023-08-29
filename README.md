@@ -4,7 +4,12 @@
 Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
 
 ## Habilidades
-![José GitHub stats](https://github-readme-stats.vercel.app/api?username=josesantosdev&show_icons=true&theme=onedark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=josesantosdev" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josesantosdev&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Contato
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
