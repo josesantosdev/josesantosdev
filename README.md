@@ -24,15 +24,14 @@ Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abo
 </div>
 
 ## Redes Sociais
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josesantosdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/1000001trobles/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josesantosdev/)
-Fique à vontade para me mandar uma mensaguem!
+
 
 
 ## Contato
-"Se você quiser discutir projetos, tecnologias ou apenas bater um papo sobre desenvolvimento, sinta-se à vontade para me enviar um e-mail ou uma mensagem no LinkedIn.
+Se você quiser discutir projetos, tecnologias ou apenas bater um papo sobre desenvolvimento, sinta-se à vontade para me enviar um e-mail ou uma mensagem no LinkedIn.
 - Email: [thecaasantos@gmail.com](mailto:thecaasantos@gmail.com)
 - Linkedin: [Visualizar Perfil](https://www.linkedin.com/in/josesantosdev/)
 - Website: [josesantos.dev](https://www.josesantos.dev/)
