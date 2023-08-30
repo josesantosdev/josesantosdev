@@ -3,13 +3,11 @@
 ## Sobre Mim
 Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
 
-## Habilidades
+## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark)
 
-## Skills
+## Hard Skills
 <div align="center">
-
-# Minhas Habilidades
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot)
