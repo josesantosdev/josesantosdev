@@ -4,7 +4,7 @@
 Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
 
 ## Top Langs
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark)
 
 ## Hard Skills
 <div align="center">
