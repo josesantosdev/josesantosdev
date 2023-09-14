@@ -1,8 +1,8 @@
 # José Santos
-## 👨‍💻 Desenvolvedor Fullstack | Java | Angular | 
+## 👨‍💻 Desenvolvedor Full Stack
 
 ## Sobre Mim
-Desenvolvedor fullstack com expertise em Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
+Desenvolvedor Java (Spring Boot) e Angular. Minha abordagem é curiosa e generalista, sempre em busca de novos conhecimentos. Exploro tecnologias inovadoras para enfrentar desafios do cotidiano e tenho paixão por auxiliar iniciantes na programação.
 
 ## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark&hide_progress=true&hide=html,css)
