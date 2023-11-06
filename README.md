@@ -15,6 +15,7 @@ Desenvolvedor Java (Spring Boot) e Angular. Minha abordagem é curiosa e general
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
