@@ -1,6 +1,6 @@
 # José Santos
 ## 👨‍💻 Desenvolvedor Full Stack
-´´´
+<P>
                  ___           ___           ___     
     ___         /\  \         /\__\         /\__\    
    /\__\       /::\  \       /:/ _/_       /:/ _/_   
@@ -12,7 +12,7 @@
      /:/  /   \:\/:/  /     \/_/:/  /     \:\/:/  /  
     /:/  /     \::/  /        /:/  /       \::/  /   
     \/__/       \/__/         \/__/         \/__/    
-´´´
+</P>
 ## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark&hide_progress=true&hide=html,css)
 
