@@ -1,17 +1,22 @@
 # José Santos
 ## 👨‍💻 Desenvolvedor Full Stack
-     ___           ___           ___     
-    /\  \         /\__\         /\__\    
-   /::\  \       /:/ _/_       /:/ _/_   
-  /:/\:\  \     /:/ /\  \     /:/ /\__\  
- /:/  \:\  \   /:/ /::\  \   /:/ /:/ _/_ 
-/:/__/ \:\__\ /:/_/:/\:\__\ /:/_/:/ /\__\
-\:\  \ /:/  / \:\/:/ /:/  / \:\/:/ /:/  /
- \:\  /:/  /   \::/_/:/  /   \::/_/:/  / 
-  \:\/:/  /     \:\/:/  /     \:\/:/  /  
-   \::/  /       \::/  /       \::/  /   
-    \/__/         \/__/         \/__/    
-
+                    .   .xXXXX+.   .
+               .   ..   xXXXX+.-   ..   .   
+         .   ..  ... ..xXXXX+. --.. ...  ..   .
+     .   ..  ... .....xXXXX+.  -.-..... ...  ..   .
+   .   ..  ... ......xXXXX+.  . .--...... ...  ..   . 
+  .   ..  ... ......xXXXX+.    -.- -...... ...  ..   .
+ .   ..  ... ......xXXXX+.   .-+-.-.-...... ...  ..   .
+ .   ..  ... .....xXXXX+. . --xx+.-.--..... ...  ..   .
+.   ..  ... .....xXXXX+. - .-xxxx+- .-- .... ...  ..   .
+ .   ..  ... ...xXXXX+.  -.-xxxxxx+ .---... ...  ..   .
+ .   ..  ... ..xXXXX+. .---..xxxxxx+-..--.. ...  ..   .
+  .   ..  ... xXXXX+. . --....xxxxxx+  -.- ...  ..   .
+   .   ..  ..xXXXX+. . .-......xxxxxx+-. --..  ..   .
+     .   .. xXXXXXXXXXXXXXXXXXXXxxxxxx+. .-- ..   .
+         . xXXXXXXXXXXXXXXXXXXXXXxxxxxx+.  -- .
+           xxxxxxxxxxxxxxxxxxxxxxxxxxxxx+.--
+            xxxxxxxxxxxxxxxxxxxxxxxxxxxxx+-   Ojosh!ro
 ## Top Langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark&hide_progress=true&hide=html,css)
 
