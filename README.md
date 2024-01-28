@@ -1,7 +1,6 @@
 # José Santos
-## 👨‍💻 Desenvolvedor Full Stack
 
-Menos marketing e mais código! Visite os repositórios.
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesantosdev&theme=dark&hide_progress=true&hide=html,css)
 
